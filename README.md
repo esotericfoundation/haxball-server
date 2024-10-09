@@ -1,6 +1,6 @@
 <h1 align="center">Haxball Server</h1>
 
-> A fully functional project with a pre-prepared discord bot and haxball utilities to play haxball.
+> A fully functional project with a pre-prepared Discord bot and haxball utilities to play haxball.
 
 <h3 align="center">Haxball Server is a feature-rich and stable headless server utility for Haxball.</h3>
 
