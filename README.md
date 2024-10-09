@@ -1,8 +1,6 @@
 <h1 align="center">Haxball Server</h1>
 
-> A fully functional project with a pre-prepared Discord bot and haxball utilities to play haxball.
-
-<h3 align="center">Haxball Server is a feature-rich and stable headless server utility for Haxball.</h3>
+<h3 align="center">A feature-rich and stable headless server utility for Haxball.</h3>
 
 <h4 align="center"> This is a Discord bot commission for a customer. If you are interested in a custom Discord bot commission, visit my site at https://ko-fi.com/rolyPolyVole This commission was built upon the original version https://github.com/gabrielbrunop/haxball-server, which was outdated.</h4>
 
