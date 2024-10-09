@@ -206,6 +206,7 @@ export class ControlPanel {
 
 		for (const browser of this.server.browsers) {
 			const page = (await browser.pages())[0];
+			//@ts-ignore
 			const proxyServer = browser["proxyServer"];
 
 			const pageTitle = await page.title();

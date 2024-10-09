@@ -103,6 +103,7 @@ export class Server {
 				let a = 0;
 
 				for (const browserInstance of this.browsers) {
+					//@ts-ignore
 					if (browserInstance["proxyServer"] === s) {
 						a++;
 					}
@@ -127,12 +128,15 @@ export class Server {
 		};
 
 		if (this.userDataDir && this.disableCache !== true) {
+			//@ts-ignore
 			puppeteerArgs["userDataDir"] = this.userDataDir;
 		}
 
 		const browser = await puppeteer.launch(puppeteerArgs);
 
+		//@ts-ignore
 		if (!this.disableRemote) browser["remotePort"] = remotePort;
+		//@ts-ignore
 		if (proxyServer !== "") browser["proxyServer"] = proxyServer;
 
 		this.browsers.push(browser);
@@ -219,6 +223,7 @@ export class Server {
 						escapeString(key.replace("reserved.haxball.", "")) as string
 					}"] = ${JSON.stringify(value)};`;
 				} else {
+					//@ts-ignore
 					customSettingsScript[key] = value;
 				}
 			}
@@ -289,6 +294,7 @@ export class Server {
 		try {
 			const link = await this.openRoom(page, script, tokens, name, settings);
 
+			//@ts-ignore
 			return {link, pid, remotePort: browser["remotePort"]};
 		} catch (e) {
 			this.close(pid as number);
@@ -313,6 +319,7 @@ export class Server {
 			if (pid === pOT) {
 				b.close().then(() => {
 					if (!this.disableRemote) {
+						//@ts-ignore
 						this.debuggingServer?.removeRoom(b["remotePort"]);
 					}
 				});
