@@ -1,6 +1,6 @@
 # Haxball Server
 
-> A feature-rich and stable headless server utility for Haxball.
+> A feature-rich and stable headless server utility for haxball.
 
 <p align="center">This project has been abandoned and most likely does not work.<p>
 
