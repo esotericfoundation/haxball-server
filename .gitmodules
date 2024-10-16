@@ -1,0 +1,3 @@
+[submodule "haxball-bot"]
+	path = haxball-bot
+	url = git@github.com:EsotericOrganisation/haxball-bot.git
