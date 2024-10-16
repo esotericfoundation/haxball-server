@@ -1,15 +1,14 @@
-<h1 align="center">Haxball Server</h1>
+Haxball Server
 
-<h3 align="center">A feature-rich and stable headless server utility for Haxball.</h3>
+> A feature-rich and stable headless server utility for Haxball.
 
-<h4 align="center"> This is a Discord bot commission for a customer. If you are interested in a custom Discord bot commission, visit my site at https://ko-fi.com/rolyPolyVole. This commission was built upon the original version https://github.com/gabrielbrunop/haxball-server, which was outdated.</h4>
+<h4 align="center">This is a Discord bot commission for a customer. If you are interested in a custom Discord bot commission, visit my site at https://ko-fi.com/rolyPolyVole. This commission was built upon the original version https://github.com/gabrielbrunop/haxball-server, which was outdated.</h4>
 
 <p align="center">
-    <a href="https://github.com/gabrielbrop/haxball-server/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/gabrielbrop/haxball-server"></a>
-    <a href="https://github.com/gabrielbrop/haxball-server/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/gabrielbrop/haxball-server"></a>
-    <a href="https://github.com/gabrielbrop/haxball-server/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/gabrielbrop/haxball-server"></a>
-    <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/gabrielbrop/haxball-server">
-    <img alt="npm" src="https://img.shields.io/npm/dw/haxball-server">
+    <a href="https://github.com/EsotericOrganisation/haxball-server/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/EsotericOrganisation/haxball-server"></a>
+    <a href="https://github.com/EsotericOrganisation/haxball-server/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/EsotericOrganisation/haxball-server"></a>
+    <a href="https://github.com/EsotericOrganisation/haxball-server/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/EsotericOrganisation/haxball-server"></a>
+    <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/EsotericOrganisation/haxball-server">
 </p>
 
 <br />
