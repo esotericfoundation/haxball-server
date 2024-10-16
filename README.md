@@ -1,4 +1,4 @@
-Haxball Server
+# Haxball Server
 
 > A feature-rich and stable headless server utility for Haxball.
 
