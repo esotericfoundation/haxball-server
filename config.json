@@ -21,10 +21,8 @@
 				"path": "./test-bots/classic.js"
 			}
 		],
-
 		"clientId": "1126947603347681310",
 		"channels": ["1126948261257818165"],
-
 		"customSettings": {
 			"default": {
 				"reserved.haxball.public": false
