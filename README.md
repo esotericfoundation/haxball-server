@@ -7,7 +7,7 @@ This project has been abandoned and most likely does not work.
 This is a Discord bot commission for a customer. If you are interested in a custom Discord bot commission, visit my site at https://ko-fi.com/rolyPolyVole. This commission was built upon the original version https://github.com/gabrielbrunop/haxball-server, which was outdated.
 
 <a href="https://github.com/EsotericFoundation/haxball-server/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/EsotericFoundation/haxball-server"></a>
-<a href="https://github.com/EsotericFoundation/haxball-server/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/EsotericFoundation/haxball-server"></a>
+<a href="https://github.com/EsotericFoundation/haxball-server/forks"><img alt="GitHub forks" src="https://img.shields.io/github/forks/EsotericFoundation/haxball-server"></a>
 <a href="https://github.com/EsotericFoundation/haxball-server/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/EsotericFoundation/haxball-server"></a>
 <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/EsotericFoundation/haxball-server">
 
