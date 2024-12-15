@@ -1,5 +1,7 @@
 # Haxball Server
 
+[![Project Status: Abandoned](./assets/images/badges/status.svg)](./)
+
 > A feature-rich and stable headless server utility for haxball.
 
 This project has been abandoned and most likely does not work.
