@@ -1,5 +1,7 @@
 # Haxball Server
 
+<sup>Forked from <a href="https://github.com/gabrielbrunop/haxball-server">gabrielbrunop/haxball-server</a></sup>
+
 [![Project Status: Abandoned](./assets/images/badges/status.svg)](./)
 
 > A feature-rich and stable headless server utility for haxball.
